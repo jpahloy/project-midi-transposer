@@ -17,5 +17,7 @@ $ transpose-midi [option] [input file] [output file]
 ```
 
 The options are -[count][unit]
+
 count : is the number of units to tranpose the piece
+
 unit  : either 'o' for octave or 's' for semi-tone
